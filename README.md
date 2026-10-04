@@ -19,7 +19,7 @@ Steve - Main Character , Protects the the village from the Hunters who live in t
    pip install pygame
 
 ##**Controls**
-1. Arrow Keays to move.
+1. Arrow Keys to move.
 2. Z,space to attack.
 3. x to shoot arrow.
 
